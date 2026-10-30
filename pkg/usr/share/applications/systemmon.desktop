@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=System Monitor
+Comment=Live CPU and RAM usage
+Exec=/opt/systemmon/SystemMon
+Type=Application
+Categories=Utility;System;
+Terminal=false

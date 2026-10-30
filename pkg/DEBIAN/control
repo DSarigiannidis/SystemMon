@@ -1,0 +1,8 @@
+Package: systemmon
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: D.Sarigiannidis dimitris.j.sarigiannidis@gmail.com
+Description: Simple CPU and RAM system monitor
+ Small tkinter GUI showing live CPU and RAM usage.
